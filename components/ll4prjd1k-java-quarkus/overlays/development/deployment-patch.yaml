@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/quay_xjiang/rhtap-qe-java-quarkus:b234c138124aedf2a9326522d46e5f87e2f8cf2c@sha256:5781f8f8ed2a39c07f5c3110c119f3bd10de0948d52588cc6c512c942525c40d
+        - image: quay.io/quay_xjiang/rhtap-qe-java-quarkus:9a158194f351ae500f136714fbb192517986d3f4@sha256:97d1f4518dcd10cba96985f10716c93a81028f303e41819f7938dafdd1dcaa53
           name: container-image
