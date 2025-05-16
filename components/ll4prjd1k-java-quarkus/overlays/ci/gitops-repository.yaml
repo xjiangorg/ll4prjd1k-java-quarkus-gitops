@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ll4prjd1k-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/ll4prjd1k-java-quarkus-gitops
